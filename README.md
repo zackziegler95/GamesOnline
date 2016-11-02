@@ -18,3 +18,6 @@ java -jar <jar file name>
 You will need Java JRE 1.8, which can be found here: http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html. 
 
 If you want to accept connections outside of your local router's network you may need to forward the server's port to the correct device.
+
+
+This has been tested with Java 1.8 on Linux Mint 17.3 and Ubuntu 16.04.1 LTS.
